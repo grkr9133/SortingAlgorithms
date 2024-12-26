@@ -1,6 +1,6 @@
 # Bubble Sort Algorithm
 # Author: Radhakrishna Rakesh Grandi
-# Updated on December 26, 2024
+# Updated on December 26, 2024.
 
 def bubblesort(list_a):
     print(list_a)
